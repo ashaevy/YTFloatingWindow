@@ -5,7 +5,7 @@ android {
     buildToolsVersion "25.0.2"
 
     defaultConfig {
-        applicationId "floaterr.floater"
+        applicationId "com.ashaevy.youtubefloatingwindow"
         minSdkVersion 17
         targetSdkVersion 23
         versionCode 1
